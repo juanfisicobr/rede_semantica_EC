@@ -2,6 +2,8 @@
 
 Este repositório contém o código-fonte, os dados brutos e os dados tratados utilizados para o mapeamento das estratégias metodológicas em pesquisas de Educação Comparada no Brasil. O projeto emprega uma abordagem híbrida que integra **Mineração de Texto** (*Text Mining*) e **Teoria dos Grafos** para revelar a estrutura cognitiva e os eixos temáticos de teses e dissertações da área.
 
+<img width="4080" height="2295" alt="Visual_Abstract_Educacao_Comparada" src="https://github.com/user-attachments/assets/c6e604fd-03be-4136-bb18-b4b9dd498f57" />
+
 ## 📋 Sobre o Projeto
 
 O objetivo deste *script* é processar dados textuais (títulos, resumos ou objetos de estudo), calcular métricas de relevância e agrupamento, e gerar visualizações de redes semânticas. Diferente de nuvens de palavras tradicionais, este método preserva e destaca o contexto relacional dos termos, permitindo uma análise estrutural do campo científico.
